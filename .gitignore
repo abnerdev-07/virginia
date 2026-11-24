@@ -1,0 +1,17 @@
+# Godot 4+
+.godot/
+
+# Godot 3
+.import/
+
+# Exportações e arquivos do sistema
+export.cfg
+export_credentials.cfg
+*.translation
+.mono/
+data_*/
+mono_crash.*.json
+
+# Sistema
+.DS_Store
+Thumbs.db
